@@ -10,9 +10,9 @@
 
             //Division.CalculateQuotientAndRemainder();
 
-            EvenorOdd.CheckNumberEvenorOdd();
+            //EvenorOdd.CheckNumberEvenorOdd();
 
-            //LargestNumber.FindingLargestNumber();
+            LargestNumber.FindingLargestNumber();
 
             //PerfectNumber.FindingPerfectNumber();
             //ReverseNumber.ReverseTheNumber();
