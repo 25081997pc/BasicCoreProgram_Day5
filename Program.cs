@@ -14,8 +14,10 @@
 
             //LargestNumber.FindingLargestNumber();
 
-            LeapYear Leap = new LeapYear();
-            Leap.Year();
+            //LeapYear Leap = new LeapYear();
+            //Leap.Year();
+
+            FlipCoin.PrintTheHeadAndTailPercentage();
 
 
             //PerfectNumber.FindingPerfectNumber();
