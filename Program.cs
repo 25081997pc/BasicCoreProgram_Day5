@@ -17,7 +17,9 @@
             //LeapYear Leap = new LeapYear();
             //Leap.Year();
 
-            FlipCoin.PrintTheHeadAndTailPercentage();
+            //FlipCoin.PrintTheHeadAndTailPercentage();
+
+            HarmonicNumber.PrintNthHarmonic();
 
 
             //PerfectNumber.FindingPerfectNumber();
