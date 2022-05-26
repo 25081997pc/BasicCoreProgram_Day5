@@ -21,8 +21,9 @@
 
             //HarmonicNumber.PrintNthHarmonic();
 
-            Factor.PrimeFactor();
+            //Factor.PrimeFactor();
 
+            Power.Powerof2();
 
             //PerfectNumber.FindingPerfectNumber();
             //ReverseNumber.ReverseTheNumber();
