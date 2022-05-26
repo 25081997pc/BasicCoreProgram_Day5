@@ -6,11 +6,11 @@
         {
             //VowelOrConstant.CheckVowelOrConstant();
 
-            SwapTwoNumber.SwappingNumbers();
+            //SwapTwoNumber.SwappingNumbers();
 
             //Division.CalculateQuotientAndRemainder();
 
-            //EvenorOdd.CheckNumberEvenorOdd();
+            EvenorOdd.CheckNumberEvenorOdd();
 
             //LargestNumber.FindingLargestNumber();
 
