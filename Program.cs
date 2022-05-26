@@ -12,7 +12,11 @@
 
             //EvenorOdd.CheckNumberEvenorOdd();
 
-            LargestNumber.FindingLargestNumber();
+            //LargestNumber.FindingLargestNumber();
+
+            LeapYear Leap = new LeapYear();
+            Leap.Year();
+
 
             //PerfectNumber.FindingPerfectNumber();
             //ReverseNumber.ReverseTheNumber();
