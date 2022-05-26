@@ -19,7 +19,9 @@
 
             //FlipCoin.PrintTheHeadAndTailPercentage();
 
-            HarmonicNumber.PrintNthHarmonic();
+            //HarmonicNumber.PrintNthHarmonic();
+
+            Factor.PrimeFactor();
 
 
             //PerfectNumber.FindingPerfectNumber();
