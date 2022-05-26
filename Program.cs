@@ -4,13 +4,13 @@
     {
         public static void Main(string[] args)
         {
-            //VowelOrConstant.CheckVowelOrConstant();
+            VowelOrConstant.CheckVowelOrConstant();
 
             //SwapTwoNumber.SwappingNumbers();
 
             //Division.CalculateQuotientAndRemainder();
 
-            EvenorOdd.CheckNumberEvenorOdd();
+            //EvenorOdd.CheckNumberEvenorOdd();
 
             //LargestNumber.FindingLargestNumber();
 
