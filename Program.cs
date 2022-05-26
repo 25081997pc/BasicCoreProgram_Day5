@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            VowelOrConstant.CheckVowelOrConstant();
+            //VowelOrConstant.CheckVowelOrConstant();
 
             //SwapTwoNumber.SwappingNumbers();
 
@@ -12,7 +12,7 @@
 
             //EvenorOdd.CheckNumberEvenorOdd();
 
-            //LargestNumber.FindingLargestNumber();
+            LargestNumber.FindingLargestNumber();
 
             //PerfectNumber.FindingPerfectNumber();
             //ReverseNumber.ReverseTheNumber();
