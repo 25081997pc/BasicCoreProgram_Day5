@@ -5,14 +5,18 @@
         public static void Main(string[] args)
         {
             //VowelOrConstant.CheckVowelOrConstant();
-            //SwapTwoNumber.SwappingNumbers();
+
+            SwapTwoNumber.SwappingNumbers();
+
             //Division.CalculateQuotientAndRemainder();
+
             //EvenorOdd.CheckNumberEvenorOdd();
+
             //LargestNumber.FindingLargestNumber();
 
             //PerfectNumber.FindingPerfectNumber();
             //ReverseNumber.ReverseTheNumber();
-            PrimeNumber.PrintThePrimeNum();
+            //PrimeNumber.PrintThePrimeNum();
             //Fibonacci.PrintingFibonacci();
 
 
